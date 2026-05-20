@@ -3,4 +3,4 @@ fila_pendentes= []
 pilha_pagamentos= []
 TIPOS= ('receita', 'despesa')
 STATUS= ('pendente', 'pago')
-CATEGORIAS= ('alimentação', 'transporte', 'saúde', 'educação', 'lazer', 'outros')
+CATEGORIAS= ('alimentação', 'transporte', 'saúde', 'educação', 'lazer', 'outros', 'ganhos')
