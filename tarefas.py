@@ -1,7 +1,7 @@
 from dados import transacoes , fila_pendentes , pilha_pagamentos , STATUS , TIPOS, CATEGORIAS
 from utils import titulo , ler_valor
 
-def cadastra_transaca():
+def cadastra_transacao():
     descricao= input("Escreva a descrição: ")
     valor= ler_valor()
     print(TIPOS)
