@@ -12,7 +12,7 @@ def cadastra_transacao():
     dict_transacao= {
         "id": len(transacoes)+1,
     "status": STATUS[0],
-        "descrição": descricao,
+        "descricao": descricao,
         "valor": valor,
         "tipo": tipo ,
         "categoria": categoria ,
