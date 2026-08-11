@@ -8,6 +8,7 @@ def cadastra_transacao():
     tipo= input("Digite o tipo: ")
     print(CATEGORIAS)
     categoria= input("Digite a catrgoria: ")
+    print("Transação Cadastrada com sucesso!")
 
     dict_transacao= {
         "id": len(transacoes)+1,
