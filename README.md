@@ -3,11 +3,10 @@
 ## Descrição
 O projeto consiste no desenvolvimento de um sistema de Controle Financeiro Pessoal, criado para ajudar usuários a organizar suas finanças do dia a dia de forma simples e eficiente. O sistema permite cadastrar receitas e despesas, pagar contas pendentes, consultar o histórico de pagamentos e acompanhar o saldo atual.
 
-## Integrantes e Turma
-- Guilherme Arcanjo
-- Gabriel
-- Isabelle
-- Grupo 22
+## Desenvolvido por
+Gabriel Oliveira — projeto acadêmico individual desenvolvido na disciplina 
+de Programação de Computadores, curso de Ciências da Computação, 
+Centro Universitário Braz Cubas (2026).
 ## Explicação Conceitual
 
 ### Fila (FIFO)
